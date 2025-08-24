@@ -1,0 +1,30 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build
+dist/
+build/
+out/
+
+# TypeScript
+*.tsbuildinfo
+
+# Ambiente
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+
+# Editor/IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Sistema
+Thumbs.db
